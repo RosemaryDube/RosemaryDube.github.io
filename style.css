@@ -1,0 +1,23 @@
+h1{
+  color: red;
+
+}
+ul{
+  width:200px;
+  height:200px;
+  margin:auto;
+  display:inline;
+}
+li{
+  margin:10px;
+}
+nav > ul{
+  margin-left:30%;
+
+}
+img{
+  /* width:200px;
+  height:250px;
+  margin-right:100%;
+  shape-outside:inset(); */
+}
