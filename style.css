@@ -1,3 +1,17 @@
+body{
+  background-image:url("https://cdn2.creativecirclemedia.com/neni/original/20190419-141233-rose-T5_58854.jpg");
+background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
 h1{
   color: red;
 
@@ -14,10 +28,10 @@ li{
 nav > ul{
   margin-left:30%;
 
-}
-img{
-  /* width:200px;
+/* }
+img{zz
+  width:200px;
   height:250px;
   margin-right:100%;
-  shape-outside:inset(); */
-}
+  shape-outside:inset();
+/* } */ *
