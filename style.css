@@ -4,6 +4,11 @@ body{
 }
  a{
    text-decoration: none;
+   color: black;
+
+ }
+ b{
+   color:black;
  }
 #header{
 text-align: center;
@@ -11,15 +16,18 @@ background-color: rgba(255, 255, 255, 0.5);
 }
 #content{
   padding:10px;
+
   }
 #nav ul{
   list-style-type: none;
   padding: 0;
+
 }
 
 #nav{
 text-align:center;
 background-color: rgba(255, 255, 255, 0.5);
+
 }
 .nav{
 width: 180px;
@@ -28,6 +36,7 @@ float:left;
 #main{
   width: 600px;
   float: right;
+  color: black;
 }
 #footer{
   clear: both;
@@ -44,7 +53,8 @@ border:1px solid white;
 padding: 10px;
 box-shadow: 0 5px black;
 background-color: white;
-}
+/* color: black; */
+/* } */
 
 /* nav > ul{
   margin-left:30%;
