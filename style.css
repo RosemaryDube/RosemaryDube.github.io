@@ -53,6 +53,7 @@ border:1px solid white;
 padding: 10px;
 box-shadow: 0 5px black;
 background-color: white;
+
 /* color: black; */
 /* } */
 
@@ -65,4 +66,4 @@ img{
   height:250px;
   margin-right:100%;
   shape-outside:inset();
-} 
+}
