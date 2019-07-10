@@ -37,10 +37,6 @@ a {
   color: black;
 }
 
-b {
-  color: black;
-}
-
 #header {
   text-align: center;
   background-color: rgba(255, 255, 255, 0.5);
@@ -53,6 +49,23 @@ b {
 .container {
   max-width: 960px;
   margin: 0 auto;
+}
+
+.greeting p {
+  margin-bottom: 2em;
+}
+
+.links {
+  text-align: center;
+}
+
+.links ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.links li {
+  margin: 1em 0;
 }
 
 #main {
@@ -74,6 +87,10 @@ b {
 .nav {
   width: 180px;
   float: left;
+}
+
+.about p {
+  margin: 2em;
 }
 
 #footer {
